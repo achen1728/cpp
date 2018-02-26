@@ -1,0 +1,24 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: C:/Users/achen/CLionProjects/HW #2 part 3/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe" "cmTC_bded2/fast"
+C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_bded2.dir\build.make CMakeFiles/cmTC_bded2.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/achen/CLionProjects/HW #2 part 3/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/achen/CLionProjects/HW\', needed by 'CMakeFiles/cmTC_bded2.dir/feature_tests.c.obj'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'C:/Users/achen/CLionProjects/HW #2 part 3/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:125: cmTC_bded2/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: C:/Users/achen/CLionProjects/HW #2 part 3/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe" "cmTC_f3b6f/fast"
+C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_f3b6f.dir\build.make CMakeFiles/cmTC_f3b6f.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/achen/CLionProjects/HW #2 part 3/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/achen/CLionProjects/HW\', needed by 'CMakeFiles/cmTC_f3b6f.dir/feature_tests.cxx.obj'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'C:/Users/achen/CLionProjects/HW #2 part 3/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:125: cmTC_f3b6f/fast] Error 2
+
+
+
