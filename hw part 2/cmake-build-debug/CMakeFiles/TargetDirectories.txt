@@ -1,0 +1,3 @@
+C:/Users/achen/CLionProjects/hw part 2/cmake-build-debug/CMakeFiles/hw_part_2.dir
+C:/Users/achen/CLionProjects/hw part 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/achen/CLionProjects/hw part 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
